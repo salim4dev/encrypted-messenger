@@ -26,8 +26,8 @@ Elle permet à deux utilisateurs d'échanger des messages en toute sécurité av
 ---
 ## Aperçu de l'application
 
-![Page d'accueil](acceuil.png)
+![Page d'accueil](screens/acceuil.png)
 
-![Message Box](messagebox.png)
+![Message Box](screens/messagebox.png)
 
 
